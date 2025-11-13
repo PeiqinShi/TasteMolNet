@@ -19,7 +19,7 @@ This project consolidates multi-source data for bitter, sweet, and tasteless com
 Create an isolated Conda environment (Python ≥ 3.9 recommended). The following commands cover the core dependencies; adjust according to the imports used in each notebook.
 
 ```bash
-conda create -n bittersweet python=3.10
+conda create -n bittersweet python=3.8
 conda activate bittersweet
 
 # Core scientific stack
