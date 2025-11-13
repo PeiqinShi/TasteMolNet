@@ -13,7 +13,6 @@ This project consolidates multi-source data for bitter, sweet, and tasteless com
   - Subfolders such as `Attentivefp/`, `MPNN/`, `GBDT/`, `rf/`, `svm/`, and `xgb/` contain training scripts using different feature sets (RDKit descriptors, MACCS, ECFP, graph features, etc.).
   - `final model.ipynb`: Comparative summary of model performance.
   - Files like `BST.csv` within subfolders store dataset splits or feature snapshots used in experiments.
-- `model/bittersweet/`: R project files and figure assets for publication-quality plots.
 
 ## Environment Setup
 
