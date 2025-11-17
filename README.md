@@ -17,7 +17,7 @@ This project consolidates multi-source data for bitter, sweet, and tasteless com
 
 ## Environment Setup
 
-Create an isolated Conda environment (Python ≥ 3.9 recommended). The following commands cover the core dependencies; adjust according to the imports used in each notebook.
+Create an isolated Conda environment (Python = 3.8 recommended). The following commands cover the core dependencies; adjust according to the imports used in each notebook.
 
 ```bash
 conda create -n bittersweet python=3.8
