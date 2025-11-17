@@ -51,7 +51,7 @@ conda install -c conda-forge xgboost lightgbm openpyxl tqdm
 1. Launch JupyterLab:
    ```bash
    conda activate bittersweet
-   jupyter lab
+   jupyter notebook
    ```
 2. Run notebooks as needed:
    - `data/data_processing.ipynb`: Data cleaning, standardization, and fingerprint generation.
