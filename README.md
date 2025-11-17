@@ -60,12 +60,6 @@ conda install -c conda-forge xgboost lightgbm openpyxl tqdm
    - `model/final model.ipynb`: Aggregated metrics and visualizations.
 3. Review the introductory cells in each notebook for input/output expectations and configurable parameters before executing.
 
-## Results and Visualization
-
-- Model notebooks report metrics such as accuracy, F1, precision, recall, and confusion matrices.
-- `model/bittersweet/` holds publication-ready plots (PDF, TIFF, PNG).
-- `model/result_*.csv` files capture prediction outputs for internal or external validation sets.
-
 ## Troubleshooting
 
 - **DeepChem warnings**: Messages like “Skipped loading ... missing dependency” indicate optional modules that are safe to ignore unless required.
