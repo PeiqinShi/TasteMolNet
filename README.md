@@ -1,6 +1,7 @@
 # TasteMolNet
 The project used to predict sweet and bitter compounds in food and developed an online prediction tool: TasteMolNet (http://www.bstchem.fun/).
-<img width="865" height="415" alt="image" src="https://github.com/user-attachments/assets/2c576315-9e9d-4a06-bfd1-5d7a3af6f558" />
+<img width="865" height="410" alt="image" src="https://github.com/user-attachments/assets/343f01df-d7eb-4e06-a76f-d8cd4837b8ad" />
+
 
 # BitterSweetTasteless
 
